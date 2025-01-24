@@ -6,9 +6,9 @@ pkg install git
 
 pkg install python-pip
 
-git clone https://github.com/paeng1992/pakk.git
+git clone https://github.com/paeng1992/test.git
 
-cd pako
+cd test
 
 git pull
 
