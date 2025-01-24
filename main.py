@@ -125,8 +125,11 @@ banner = r"""
 
 
 ⠀⠀
-                   █░█ ▄▀█ █▀▀ █▄▀ █▀▀ █▀█
-                   █▀█ █▀█ █▄▄ █░█ ██▄ █▀▄
+   dBBBBBb  dBBBBBb     dBP dBP     dBP dBP     dBBBBb     dBBBBb     dBBBBP
+       dB'       BB    d8P.dBP                     dBP        dBP    dBP.BP
+   dBBBP'    dBP BB   dBBBBP      dBP dBP     dBP dBP    dBP dBP    dBP.BP
+     dBP       dBP  BB  dBP BB      dBP_dBP     dBP dBP    dBP dBP    dBP.BP
+dBP       dBBBBBBB dBP dBP     dBBBBBP     dBP dBP    dBBBBBP    dBBBBP
                        
                    𝙲𝙰𝚁 𝙿𝙰𝚁𝙺𝙸𝙽𝙶 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙰𝚈𝙴𝚁
                          𝙿𝚁𝙴𝚂𝚂 𝙴𝙽𝚃𝙴𝚁                                 
