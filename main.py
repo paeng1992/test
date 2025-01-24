@@ -91,8 +91,6 @@ except Exception as e:
     from pystyle import Center as pyCenter
     from pystyle import System as pySystem
     
-#text = """
-#< [ Telegram Ewan_Ali ] > X < [ TikTok Ewan.Shex.Ali ] >"""[1:]
 
 
 banner = r"""
@@ -138,29 +136,7 @@ banner = r"""
 pyAnime.Fade(pyCenter.Center(banner), pyColors.red_to_yellow, pyColorate.Vertical, enter=True)
 
 
-#pyAnime.Fade(pyCenter.Center(text), pyColors.purple_to_red, pyColorate.Vertical, enter=True)
-#print(pyColorate.Horizontal(pyColors.red_to_yellow, pyCenter.XCenter(text)))
-
 pySystem.Clear()
-
-#print("\n"*2    )
-#print(pyColorate.Horizontal(pyColors.red_to_yellow, pyCenter.XCenter(text)))
-#print("\n"*2)
-
-
-
-
-
-#پرسیار و وەڵام 
-#name = input("What is your name?: ")
-#age = int(input("How old are you?: "))
-#height = float(input("How tall are you?: "))
-
-#print("Hello "+name)
-#print("You are "+str(age)+" years old")
-#print("You are "+str(height)+"cm tall")
-
-
 
 
 
